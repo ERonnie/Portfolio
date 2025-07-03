@@ -1,6 +1,6 @@
 # 🔮 API de Previsão utilizando RandomForestClassifier
 
-Este projeto implementa uma aplicação interativa em Python que utiliza machine learning para prever a escolha do adversário em um mini game baseado em 4 elementos com ciclo de força:
+Este projeto implementa uma aplicação interativa em Python que utiliza machine learning para prever a escolha do adversário em um mini game presente em Slayer Legend baseado em 4 elementos com ciclo de força:
 
 **Fogo > Terra > Vento > Água > Fogo**
 
